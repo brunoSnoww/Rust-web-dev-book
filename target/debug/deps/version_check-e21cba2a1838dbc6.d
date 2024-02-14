@@ -1,0 +1,10 @@
+/Users/brunoneves/Desktop/personalProjects/rust-web-dev-book/target/debug/deps/libversion_check-e21cba2a1838dbc6.rmeta: /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/brunoneves/Desktop/personalProjects/rust-web-dev-book/target/debug/deps/libversion_check-e21cba2a1838dbc6.rlib: /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/brunoneves/Desktop/personalProjects/rust-web-dev-book/target/debug/deps/version_check-e21cba2a1838dbc6.d: /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/brunoneves/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:
